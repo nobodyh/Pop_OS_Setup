@@ -3,7 +3,7 @@ A Pop!_OS  installation guide with a few tweaks for peeps switching from Windows
 
 # Installation
 
-You can install the Disk Image (.iso) from the [Official Website.](https://pop.system76.com/)
+You can install the Disk Image (.iso) from the [Official Website](https://pop.system76.com/).
 
 If you have a Nvidia Graphics Card use the Nvidia version of the Disk Image.
 
