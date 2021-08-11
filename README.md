@@ -1,4 +1,4 @@
-# Pop_OS_Setup
+# Pop!_OS_Setup
 A Pop!_OS  installation guide with a few tweaks for peeps switching from Windows to Linux for the first time.
 
 # Installation
