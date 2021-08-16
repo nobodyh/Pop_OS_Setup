@@ -77,7 +77,7 @@ $ sudo apt-get remove --autoremove grub-customizer
 
 [Custom Theme Installation](https://www.youtube.com/watch?v=3s7qBJ-H7vw): How to install a custom GRUB theme; [Another Link](https://www.youtube.com/watch?v=BAyzHP1Cqb0)
 
-[Themes](https://github.com/topics/refind-theme): GRUB Themes which are available online
+[Themes](https://www.gnome-look.org/browse?cat=109&ord=rating): GRUB Themes which are available online
 
 ### Favourites:
 
