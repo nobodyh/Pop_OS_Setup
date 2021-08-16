@@ -42,7 +42,7 @@ $ sudo apt-get install refind
 
 [Custom Theme Installation](https://www.youtube.com/watch?v=g2YYC1f3mnw): How to install a custom rEFInd theme
 
-[Themes](https://github.com/topics/refind-theme): rEFInd Themes which are available on GitHub
+[Themes](https://www.gnome-look.org/browse?cat=135&ord=rating): rEFInd Themes which are available on GitHub
 
 ### Favourites:
 
