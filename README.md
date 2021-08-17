@@ -174,6 +174,6 @@ sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
 
 ### Oracle VirtualBox: [Link](https://download.virtualbox.org/virtualbox/6.1.26/virtualbox-6.1_6.1.26-145957~Ubuntu~eoan_amd64.deb) and [Extension Pack](https://download.virtualbox.org/virtualbox/6.1.26/Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack)
 
-### [Rambox](https://rambox.pro/api/downloadCE?os=linux&filetype=AppImage&arch=x86_64)
+### [Rambox](https://rambox.pro/api/downloadCE?os=linux&filetype=AppImage&arch=x86_64): Productivity App for Messaging
 
-### [Notion](https://github.com/davidbailey00/notion-linux/releases/download/v2.0.6-windows/notion-desktop_2.0.6_amd64.deb)
+### [Notion](https://github.com/davidbailey00/notion-linux/releases/download/v2.0.6-windows/notion-desktop_2.0.6_amd64.deb): Productivity App for Note Taking
