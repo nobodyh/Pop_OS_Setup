@@ -28,10 +28,14 @@ If you have a Nvidia Graphics Card use the Nvidia version of the Disk Image.
 [Installation](https://www.youtube.com/watch?v=bg0BV5ZJCZU): Setting up rEFInd
 
 ```bash
-$ sudo apt-add-repository ppa:rodsmith/refind
-$ sudo apt-get update
-$ sudo apt-get install refind
+ sudo apt-add-repository ppa:rodsmith/refind
+ sudo apt-get update
+ sudo apt-get install refind
+ sudo apt-get install nautilus-admin
+ sudo add-apt-repository ppa:ubuntuhandbook1/gvfs
+ sudo apt install gvfs
 ```
+
 
 [Custom Theme Installation](https://www.youtube.com/watch?v=g2YYC1f3mnw): How to install a custom rEFInd theme
 
@@ -58,14 +62,14 @@ $ sudo apt-get install refind
 Installation: Setting up Grub Customizer
 
 ```bash
-$ sudo apt-get install grub2-common
-$ sudo update-grub
-$ sudo add-apt-repository ppa:danielrichter2007/grub-customizer
-$ sudo apt-get update
-$ sudo apt-get install grub-customizer
+ sudo apt-get install grub2-common
+ sudo update-grub
+ sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+ sudo apt-get update
+ sudo apt-get install grub-customizer
 
 To Uninstall:
-$ sudo apt-get remove --autoremove grub-customizer
+ sudo apt-get remove --autoremove grub-customizer
 ```
 
 [Custom Theme Installation](https://www.youtube.com/watch?v=3s7qBJ-H7vw): How to install a custom GRUB theme; [Another Link](https://www.youtube.com/watch?v=BAyzHP1Cqb0)
